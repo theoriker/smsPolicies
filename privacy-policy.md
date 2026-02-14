@@ -2,7 +2,7 @@
 
 **Effective Date:** February 14, 2026
 
-Pipes-Swenson Household ("we," "us," "our") operates a personal assistant SMS service for household coordination, reminders, and communication with trusted contacts.
+Theo ("we," "us," "our") operates a personal assistant SMS service for household coordination, reminders, and communication with trusted contacts.
 
 ## Information We Collect
 
