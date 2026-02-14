@@ -2,7 +2,7 @@
 
 **Effective Date:** February 14, 2026
 
-These terms govern your use of the Pipes-Swenson Household SMS service.
+These terms govern your use of the Theo SMS service.
 
 ## Service Description
 
