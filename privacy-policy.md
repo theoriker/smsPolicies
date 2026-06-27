@@ -4,20 +4,20 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective Date:** February 14, 2026
+**Effective Date:** February 14, 2026 (revised June 27, 2026)
 
-Theo ("we," "us," "our") operates a personal assistant SMS service for household coordination, reminders, and communication with trusted contacts.
+Theo ("we," "us," "our") is the account owner's personal assistant and operates an SMS service used to coordinate, on the account owner's behalf, with the account owner's known service vendors and contacts — for example, scheduling and confirming appointments, following up on quotes or completed work, and answering logistics questions.
 
 ## Information We Collect
 
-We collect your phone number when you engage with our SMS service. We may also collect your name and any information you provide in text message exchanges.
+We collect your phone number when the account owner introduces you to the service and you agree to receive messages. We may also collect your name and any information you provide in text message exchanges.
 
 ## How We Use Your Information
 
 Your information is used solely to:
-- Send and receive text messages related to household coordination
-- Deliver reminders, scheduling updates, and logistical communications
-- Respond to your inquiries via SMS
+- Send and receive text messages to coordinate appointments and services on the account owner's behalf
+- Deliver scheduling updates, confirmations, and logistical communications
+- Respond to your messages via SMS
 
 ## Information Sharing
 
@@ -27,8 +27,8 @@ We do not sell, rent, or trade your personal information.
 
 ## Consent and Opt-Out
 
-- **Consent:** By texting our number or providing your phone number, you consent to receive SMS messages from us.
-- **Opt-Out:** Reply **STOP** to any message to unsubscribe.
+- **Consent (how you opt in):** There is no public or web sign-up. The account owner personally introduces this assistant to you by text, and you affirmatively agree to receive messages before any are sent. Each agreement is logged and retained.
+- **Opt-Out:** Reply **STOP** at any time to unsubscribe; you will receive a one-time confirmation and no further messages unless you re-subscribe by replying **START**.
 - **Help:** Reply **HELP** for assistance.
 - Message and data rates may apply. Message frequency varies.
 
