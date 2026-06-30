@@ -4,7 +4,7 @@ title: Terms and Conditions
 
 # Terms and Conditions
 
-**Effective Date:** February 14, 2026 (revised June 27, 2026)
+**Effective Date:** February 14, 2026 (revised June 29, 2026)
 
 These terms govern your use of the Theo SMS service.
 
@@ -20,7 +20,7 @@ Theo is the account owner's personal assistant and operates an SMS service that 
 
 ## Consent
 
-There is no public or web sign-up. The account owner personally introduces this assistant to you by text, and you affirmatively agree to receive messages before any are sent. You may opt out at any time.
+You can opt in either by submitting our [opt-in form](https://docs.google.com/forms/d/e/1FAIpQLSezdbwxjgSCeYkdAhoAdAckB-I05uSTsbTWjtZaPcpdomYjTw/viewform) and checking the consent box (unchecked by default), or by the account owner personally introducing this assistant to you by text and your affirmatively agreeing before any messages are sent. Submitting the opt-in form does not start automated messaging: the account owner personally reviews and verifies each request before any message is sent. You may opt out at any time.
 
 ## Opt-Out
 

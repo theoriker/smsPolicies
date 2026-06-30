@@ -4,13 +4,13 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective Date:** February 14, 2026 (revised June 27, 2026)
+**Effective Date:** February 14, 2026 (revised June 29, 2026)
 
 Theo ("we," "us," "our") is the account owner's personal assistant and operates an SMS service used to coordinate, on the account owner's behalf, with the account owner's known service vendors and contacts — for example, scheduling and confirming appointments, following up on quotes or completed work, and answering logistics questions.
 
 ## Information We Collect
 
-We collect your phone number when the account owner introduces you to the service and you agree to receive messages. We may also collect your name and any information you provide in text message exchanges.
+We collect your phone number when you opt in — either by submitting our [opt-in form](https://docs.google.com/forms/d/e/1FAIpQLSezdbwxjgSCeYkdAhoAdAckB-I05uSTsbTWjtZaPcpdomYjTw/viewform) or when the account owner introduces you to the service and you agree to receive messages. We may also collect your name and any information you provide on the opt-in form or in text message exchanges.
 
 ## How We Use Your Information
 
@@ -27,7 +27,7 @@ We do not sell, rent, or trade your personal information.
 
 ## Consent and Opt-Out
 
-- **Consent (how you opt in):** There is no public or web sign-up. The account owner personally introduces this assistant to you by text, and you affirmatively agree to receive messages before any are sent. Each agreement is logged and retained.
+- **Consent (how you opt in):** You can opt in in two ways: (1) by submitting our [opt-in form](https://docs.google.com/forms/d/e/1FAIpQLSezdbwxjgSCeYkdAhoAdAckB-I05uSTsbTWjtZaPcpdomYjTw/viewform) and checking the consent box (unchecked by default), or (2) by the account owner personally introducing this assistant to you by text, after which you affirmatively agree before any messages are sent. **Opt-in is never automatically acted on:** the account owner personally reviews and verifies each opt-in request before any message is sent, so submitting the form does not trigger automated messaging. Each agreement is logged and retained.
 - **Opt-Out:** Reply **STOP** at any time to unsubscribe; you will receive a one-time confirmation and no further messages unless you re-subscribe by replying **START**.
 - **Help:** Reply **HELP** for assistance.
 - Message and data rates may apply. Message frequency varies.
