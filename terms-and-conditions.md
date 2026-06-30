@@ -20,7 +20,7 @@ Theo is the account owner's personal assistant and operates an SMS service that 
 
 ## Consent
 
-You can opt in either by submitting our [opt-in form](https://docs.google.com/forms/d/e/1FAIpQLSezdbwxjgSCeYkdAhoAdAckB-I05uSTsbTWjtZaPcpdomYjTw/viewform) and checking the consent box (unchecked by default), or by the account owner personally introducing this assistant to you by text and your affirmatively agreeing before any messages are sent. Submitting the opt-in form does not start automated messaging: the account owner personally reviews and verifies each request before any message is sent. You may opt out at any time.
+The account owner personally introduces this assistant to you by text, and you affirmatively agree to receive messages before any are sent; there is no public web sign-up. The account owner reviews and verifies each request before any message is sent. You may opt out at any time. A representative consent exchange is shown at https://theoriker.github.io/smsPolicies/optin-evidence.html.
 
 ## Opt-Out
 
